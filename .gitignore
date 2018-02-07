@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+dist
+
+public/stylesheets/style.css
+public/stylesheets/style.css.map
